@@ -1,6 +1,6 @@
 # emojis_for_abusive_language_detection
 
-This package contains supplementary notes and the new resources created as part of this research.
+This package contains supplementary notes and the new resources created for the paper "Exploiting Emojis for Abusive Language Detection".
 
 There are two subdirectories:
 
