@@ -4,7 +4,7 @@ This package contains supplementary notes and the new resources created as part 
 
 There are two subdirectories:
 
-***subdirectory: Lexicons***
+### subdirectory: Lexicons ###
 This subdirectory contains the resources regarding our lexicon induction experiments.
 
 abusive.lexicon.emojibased.english.txt: This is the English lexicon of abusive words induced with the help of emojis.
