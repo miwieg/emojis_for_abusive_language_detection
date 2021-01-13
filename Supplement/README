@@ -1,5 +1,3 @@
-# emojis_for_abusive_language_detection
-
 This package contains supplementary notes and the new resources created as part of this research.
 
 There are two subdirectories:
@@ -34,12 +32,3 @@ guidelinesBWord.pdf: This file represents the annotation guidelines the annotato
 BWord: This subdirectory contains the gold standard data for disambiguating the the word "bitch". The file BWord/abuse.txt contains the tweets categorized as abusive usages by the majority of annotators; the file BWord/profane.txt contains the tweets categorized as profane by the majority of annotators.
 
 FWord: This subdirectory contains the gold standard data for disambiguating the the word "fuck". The file FWord/abuse.txt contains the tweets categorized as abusive usages by the majority of annotators; the file FWord/profane.txt contains the tweets categorized as profane by the majority of annotators.
-
-***contact information***
-Please direct any questions that you have about this software to Michael Wiegand at Alpen-Adria Universitaet Klagenfurt.
-
-Michael Wiegand email: michael.wiegand@aau.at
-
-
-***reference***
-M. Wiegand & J. Ruppenhofer: Exploiting Emojis for Abusive Language Detection, in EACL, 2021.
