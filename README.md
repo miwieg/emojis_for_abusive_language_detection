@@ -4,7 +4,7 @@ This package contains supplementary notes and the new resources created as part 
 
 There are two subdirectories:
 
-### subdirectory: Lexicons ###
+# *subdirectory: Lexicons*
 This subdirectory contains the resources regarding our lexicon induction experiments.
 
 abusive.lexicon.emojibased.english.txt: This is the English lexicon of abusive words induced with the help of emojis.
@@ -24,7 +24,7 @@ vocabulary.negpolar.portuguese.txt: This is the Portuguese vocabulary of negativ
 Note that the English vocabulary of negative polar expressions is available in the supplementary material of Wiegand et al. "Inducing a Lexicon of Abusive Words – a Feature-Based Approach": https://github.com/uds-lsv/lexicon-of-abusive-words/blob/master/Lexicons/expandedLexicon.txt (This is the path to the "expanded lexicon"; that lexicon contains the entire vocabulary of negative polar expressions with negative polar expressions having a positive score being predicted as abusive and expressions having a negative score being predicted as non-abusive.)
 
 
-***subdirectory: Disambiguation***
+# *subdirectory: Disambiguation*
 This subdirectory contains the resources regarding the disambiguation experiments.
 
 guidelinesFWord.pdf: This file represents the annotation guidelines the annotators from Prolific Academic were given to categorize tweets mentioning the word "fuck" into abusive and merely profane usages.
@@ -35,11 +35,13 @@ BWord: This subdirectory contains the gold standard data for disambiguating the 
 
 FWord: This subdirectory contains the gold standard data for disambiguating the the word "fuck". The file FWord/abuse.txt contains the tweets categorized as abusive usages by the majority of annotators; the file FWord/profane.txt contains the tweets categorized as profane by the majority of annotators.
 
-***contact information***
+
+# *contact information*
 Please direct any questions that you have about this software to Michael Wiegand at Alpen-Adria Universitaet Klagenfurt.
 
 Michael Wiegand email: michael.wiegand@aau.at
 
 
-***reference***
+# *reference*
+
 M. Wiegand & J. Ruppenhofer: Exploiting Emojis for Abusive Language Detection, in EACL, 2021.
